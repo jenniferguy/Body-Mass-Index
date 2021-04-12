@@ -1,0 +1,13 @@
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.csprojAssemblyReference.cache
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.AssemblyInfoInputs.cache
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.AssemblyInfo.cs
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.csproj.CoreCompileInputs.cache
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.exe
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.deps.json
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.runtimeconfig.json
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.runtimeconfig.dev.json
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.dll
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\bin\Debug\netcoreapp3.1\Body Mass Index.pdb
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.dll
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.pdb
+C:\Users\Jennifer\source\repos\Body Mass Index\Body Mass Index\obj\Debug\netcoreapp3.1\Body Mass Index.genruntimeconfig.cache
